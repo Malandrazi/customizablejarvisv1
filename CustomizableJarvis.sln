@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizableJarvis", "CustomizeableJarvis\CustomizableJarvis.csproj", "{AB8F674B-76F4-4740-B204-2FAC1F9282FA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JARVIS", "JARVIS\JARVIS.vdproj", "{EC928549-35E8-4072-A643-B52E9B75BB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8F674B-76F4-4740-B204-2FAC1F9282FA}.Debug|x86.ActiveCfg = Debug|x86
+		{AB8F674B-76F4-4740-B204-2FAC1F9282FA}.Debug|x86.Build.0 = Debug|x86
+		{AB8F674B-76F4-4740-B204-2FAC1F9282FA}.Release|x86.ActiveCfg = Release|x86
+		{AB8F674B-76F4-4740-B204-2FAC1F9282FA}.Release|x86.Build.0 = Release|x86
+		{EC928549-35E8-4072-A643-B52E9B75BB29}.Debug|x86.ActiveCfg = Debug
+		{EC928549-35E8-4072-A643-B52E9B75BB29}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
