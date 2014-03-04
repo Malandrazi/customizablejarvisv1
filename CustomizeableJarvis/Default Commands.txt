@@ -1,0 +1,83 @@
+﻿Hello
+Hello Jarvis
+Goodbye
+Goodbye Jarvis
+Close Jarvis
+go offline
+Jarvis
+hey
+Stop talking
+Shut up
+be quiet
+not now
+What's my name?
+What time is it
+time check
+what is the time
+give me the time
+check the time for me
+check the time
+check the clock
+What day is it
+What day of the week is it
+Which day is today
+What weekday is it
+Whats the date
+Whats todays date
+What day of the month is it
+Hows the weather
+Whats the weather like
+Whats it like outside
+Weather report
+Whats the weather status
+What will tomorrow be like
+Whats tomorrows forecast
+Whats the forcast
+Whats tomorrow like
+Whats the temperature
+Whats the temperature outside
+Play music
+Play video
+Switch Window
+Close 
+Out of the way
+offscreen
+Come back
+onscreen
+Show default commands
+Show shell commands
+Show web commands
+Show social commands
+Show Music Library
+Show Video Library
+Show Email List
+Show listbox
+Hide listbox
+Shutdown
+Log off
+Restart
+Abort
+add custom commands
+new command
+add a command
+reload them
+Update commands
+refresh commands
+lets try that
+ok im done
+Set the alarm
+What time is the alarm
+Clear the alarm
+Stop listening
+JARVIS Come Back Online
+reload libraries
+update libraries
+Refresh libraries
+Change video directory
+Change music directory
+Check for new emails
+Read the email
+Open the email
+Next email
+Previous email
+Clear email list

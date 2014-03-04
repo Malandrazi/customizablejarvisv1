@@ -1,0 +1,36 @@
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Form1.resources
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Customize.resources
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Default Commands.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Personal Commands.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Shell Commands.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Web Commands.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Shell Location.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Shell Response.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Web Response.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Web URL.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Personal Response.txt
+C:\Users\Michael Wilson\Desktop\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.config
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Default Commands.txt
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.config
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Customize.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Form1.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.manifest
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.application
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe.manifest
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.application

@@ -1,0 +1,58 @@
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\Default Commands.txt
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.config
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.manifest
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.application
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Customize.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Form1.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe.manifest
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.application
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizeableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\Default Commands.txt
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.config
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.pdb
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\taglib-sharp.dll
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Customize.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Form1.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizableJarvis.csproj.GenerateResource.Cache
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe
+C:\Users\Michael Wilson\Desktop\SideProjects\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.pdb
+F:\-=Apps=-\CustomizableJarvis\CustomizeableJarvis\bin\Debug\CustomizeableJarvis.exe.config
+F:\-=Apps=-\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.exe
+F:\-=Apps=-\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.pdb
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.ACTIVELISTENPROJECTLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.ACTIVEVOICEPROJECTLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.CommonLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DgnFormFillerLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DGNPIM_AGENTLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DgnVocTools.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DICTLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DNSTools.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DragonRIAPluginLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.DragonSvc.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.HSRLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.HTTSLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.MSTTSDECWRPLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.MSTTSFrontendENULib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.SAPI51ListBox.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.SAPIEngineLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.SIMPLEAUDIOLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.SpeechLib.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\Interop.VBRUN.dll
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizableJarvis.csproj.ResolveComReference.cache
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Customize.resources
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizeableJarvis.Form1.resources
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\SVPA.Properties.Resources.resources
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizableJarvis.csproj.GenerateResource.Cache
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\obj\x86\Debug\CustomizableJarvis.Properties.Resources.resources
+K:\A.I. Software\CustomizableJarvis\CustomizeableJarvis\bin\Debug\Samantha VPA.exe.config
